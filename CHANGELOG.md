@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/devansvd/sample/compare/v0.2.0...v0.3.0) (2020-05-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **compent:** this is
+
+* **compent:** this is suff change ([3b2699d](https://github.com/devansvd/sample/commit/3b2699de04eea0efbbd9b77618678da0be3c75e3))
+
 ## [0.2.0](https://github.com/devansvd/sample/compare/v0.1.1...v0.2.0) (2020-05-09)
 
 
