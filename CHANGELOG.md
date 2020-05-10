@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [](https://github.com/devansvd/sample/compare/v1.0.0...v) (2020-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* **inquiry:** this breaks prod
+
+### Features
+
+* **inquiry:** this breaks inquiry component ([90afe2f](https://github.com/devansvd/sample/commit/90afe2f12ca4313f1674031daabe6a0e4662d571))
+* this stuff to check ([1f9171b](https://github.com/devansvd/sample/commit/1f9171bef5a0f17e66d3691482e6136b447dfe71))
+
 ## [1.0.0](https://github.com/devansvd/sample/compare/v0.3.1...v1.0.0) (2020-05-10)
 
 

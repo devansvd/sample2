@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "commit",
-    "check-bump-version": "$(npm bin)/conventional-recommended-bump -p angular",
-    "release": "$(npm bin)/standard-version --release-as $(npm run check-bump-version)"
+    "check-bump-version": "",
+    "release": "$(npm bin)/standard-version --release-as $(npm bin)/conventional-recommended-bump -p angular"
   },
   "repository": {
     "type": "git",
