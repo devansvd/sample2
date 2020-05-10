@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/devansvd/sample/compare/v2.1.1...v3.0.0) (2020-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is release
+
+* this is stuff ([6ab4755](https://github.com/devansvd/sample/commit/6ab4755b5710cfc106c87a0ab443b3bc2a72bcee))
+
 ### [2.1.1](https://github.com/devansvd/sample/compare/v2.1.0...v2.1.1) (2020-05-10)
 
 ## [2.1.0](https://github.com/devansvd/sample/compare/v2.0.0...v2.1.0) (2020-05-10)
