@@ -1,13 +1,13 @@
 {
   "name": "sample",
-  "version": null,
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "commit",
-    "check-bump-version": "",
-    "release": "$(npm bin)/standard-version --release-as $(npm bin)/conventional-recommended-bump -p angular"
+    "check-bump-version": "$(npm bin)/conventional-recommended-bump -p angular",
+    "release": "$(npm bin)/standard-version --release-as $($(npm bin)/conventional-recommended-bump -p angular)"
   },
   "repository": {
     "type": "git",
