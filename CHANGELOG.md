@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/devansvd/sample/compare/v0.3.1...v1.0.0) (2020-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* closes #2
+
+### Features
+
+* this a new feature should bump minor version ([74da796](https://github.com/devansvd/sample/commit/74da79663e521bc18bdf5b8a133092ab6793cbda))
+* this is a breaking change ([091c0ca](https://github.com/devansvd/sample/commit/091c0ca747d4cc21c0300005c38ac5fd52a2acbc))
+
 ## [0.4.0](https://github.com/devansvd/sample/compare/v0.3.1...v0.4.0) (2020-05-10)
 
 
